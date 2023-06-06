@@ -1,0 +1,3 @@
+tietokone:computer
+tietokone:computer
+auto:car
